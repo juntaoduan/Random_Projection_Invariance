@@ -15,3 +15,4 @@ Please feel free to reach me at
 
 ## Reference
 * [Product-CLT]()
+* [Random Projection](https://home.ttic.edu/~gregory/courses/LargeScaleLearning/lectures/jl.pdf)
