@@ -4,9 +4,17 @@
 
 The project is meant to simulate and verify the convergence proved in Product-CLT.
 
+## Results
+
+![Product CLT1](./Product_CLT1.png '')
+![Product CLT2](./Product_CLT2.png '')
+![Product CLT3](./Product_CLT3.png '')
+
+
 To be added                                
 * 1 - The paper
 * 2 - Simulation on attention matrix
+
 
 ## Contact
 Please feel free to reach me at 
