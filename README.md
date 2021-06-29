@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project is meant to simulate and verify the convergence proved in Product-CLT.
+The project is meant to simulate and verify the convergence proved in [Product-CLT](https://arxiv.org/abs/2106.14825).
 
 ## Results
 
