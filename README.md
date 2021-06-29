@@ -12,7 +12,7 @@ The project is meant to simulate and verify the convergence proved in the paper 
 
 
 To be added                                
-* 1 - The paper
+~~* 1 - The paper~~
 * 2 - Simulation on attention matrix
 
 
