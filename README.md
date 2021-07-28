@@ -22,5 +22,5 @@ Please feel free to reach me at
 
 
 ## Reference
-* [Product-CLT]()
+* [Product-CLT](https://arxiv.org/abs/2106.14825)
 * [Random Projection](https://home.ttic.edu/~gregory/courses/LargeScaleLearning/lectures/jl.pdf)
