@@ -1,4 +1,4 @@
-# Product-CLT
+# An invariance principle of random projection
 
 ## Introduction
 
