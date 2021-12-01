@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The project is meant to simulate and verify the convergence proved in the paper [Product-CLT](https://arxiv.org/abs/2106.14825).
+The project is meant to simulate and verify the convergence proved in two recent papers [RP](https://arxiv.org/abs/2106.14825) and [RP_norm](https://github.com/juntaoduan/product-CLT/blob/main/Invariance_of_RP_norm.pdf)
 
 ## Results
 
@@ -22,5 +22,5 @@ Please feel free to reach me at
 
 
 ## Reference
-* [Product-CLT](https://arxiv.org/abs/2106.14825)
+* [Random Projection Invariance](https://arxiv.org/abs/2106.14825)
 * [Random Projection](https://home.ttic.edu/~gregory/courses/LargeScaleLearning/lectures/jl.pdf)
